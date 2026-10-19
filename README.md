@@ -40,7 +40,7 @@
 - 🌐 Check out my work on my [Portfolio](https://aditya-profile-26.vercel.app/)
 - 📝 Sharing thoughts and articles on [LinkedIn](https://www.linkedin.com/in/adityagupta-swe/)
 - 💬 Ask me about **React, TypeScript, Frontend Architecture & DSA**
-- 📫 Reach me at **rahul860152gupta@gmail.com**
+- 📫 Reach me at **aditya.gupta.sde26@gmail.com**
 
 ---
 
